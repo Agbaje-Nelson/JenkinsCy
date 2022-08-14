@@ -1,0 +1,23 @@
+{
+  "name": "JenkinsCy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agbaje-Nelson/JenkinsCy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agbaje-Nelson/JenkinsCy/issues"
+  },
+  "homepage": "https://github.com/Agbaje-Nelson/JenkinsCy#readme",
+  "devDependencies": {
+    "cypress": "^10.4.0"
+  }
+}
