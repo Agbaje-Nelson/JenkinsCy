@@ -17,7 +17,7 @@
     "url": "https://github.com/Agbaje-Nelson/JenkinsCy/issues"
   },
   "homepage": "https://github.com/Agbaje-Nelson/JenkinsCy#readme",
-  "devDependencies": {
+  "dependencies": {
     "cypress": "^10.4.0"
   }
 }
